@@ -1,1 +1,1 @@
-echo An investor-ready operations system MVP. 
+An investor-ready operations system MVP. 
